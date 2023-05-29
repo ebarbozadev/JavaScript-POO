@@ -22,7 +22,7 @@
     <ul style="text-align: justify;">
         <li>Conceitos principais da orientação a objetos;</li>
         <li>POO através de <code>funções</code> e <code>protótipos</code>;</li>
-        <li>Princípios de <code>classe, <code>objeto e <code>herança</code>;</li>
+        <li>Princípios de <code>classe</code>, <code>objeto</code> e <code>herança</code>;</li>
         <li><code>Encapsulamento</code>;</li>
         <li><code>Polimorfismo</code>;</li>
         <li>Padrões do <code>SOLID</code>.</li>
